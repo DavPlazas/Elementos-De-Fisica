@@ -204,7 +204,7 @@ interval = 0.001
 # Constantes
 G=6.67* (10**-11) #Cte gravitacional (N * m^2/kg^2)
 Mt=5.972*(10**24) #Masa tierra (kg)
-Rt=6.375 #Radio tierra (Km)
+Rt=6375000 #Radio tierra (m)
 y_0=0
 m_0 = 12800
 v_0x = 0
